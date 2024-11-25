@@ -48,7 +48,7 @@ function App() {
   });
   return (
     <div className="App">
-      <h1>Simple Counter</h1>
+      <h1>Simple Counter Version 2</h1>
       <section>
         <input value={text} onChange={handleChangeText} />
       </section>
